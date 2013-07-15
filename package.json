@@ -8,7 +8,7 @@
   },
   "author": "ka",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "jade": "0.33.0"
   },
   "bugs": {
