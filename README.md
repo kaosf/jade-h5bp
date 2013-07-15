@@ -10,6 +10,15 @@ wget https://raw.github.com/kaosf/jade-h5bp/v4.2.0/index.jade
 
 Now, you can use `index.jade` as you like.
 
+## Development
+
+```
+npm install -g grunt-cli@0.1.9
+npm install
+
+grunt #=> "index.html" is generated.
+```
+
 ## References
 
 * [HTML5 Boilerplate in jade](https://gist.github.com/xtian/888338) (by [@xtian](https://github.com/xtian))
