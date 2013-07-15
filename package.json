@@ -1,0 +1,17 @@
+{
+  "name": "jade-h5bp",
+  "version": "4.2.0",
+  "description": "Jade for HTML5 Boilerplate",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kaosf/jade-h5bp.git"
+  },
+  "author": "ka",
+  "license": "MIT",
+  "dependencies": {
+    "jade": "0.33.0"
+  },
+  "bugs": {
+    "url": "https://github.com/kaosf/jade-h5bp/issues"
+  }
+}
