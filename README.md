@@ -5,7 +5,7 @@ This Jade code is generated from [HTML5 Boilerplate ver. 4.2.0](https://raw.gith
 ## Usage
 
 ```sh
-wget https://raw.github.com/kaosf/jade-h5bp/v4.2.0/index.jade
+wget https://raw.github.com/kaosf/jade-h5bp/v4.2.0.1/index.jade
 ```
 
 Now, you can use `index.jade` as you like.
