@@ -12,7 +12,7 @@ Now, you can use `index.jade` as you like.
 
 ### Caution
 
-Version 4.2.0 is updated. The old commit of this version's SHA-1 is `f441f429081a14cce1122fa3b73354596cb0cb54`. It is deprecated.
+Version 4.2.0 is updated. The old commit of this version's SHA-1 is `f441f429081a14cce1122fa3b73354596cb0cb54`. It is deprecated. New version's SHA-1 is `e0d91dd7ecfe330515ffe8d1412f0c77e81dfeb6`.
 
 ## Development
 
